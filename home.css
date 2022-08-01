@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(#ffc371 0%,#ff4d00 100%);
+    font-family:sans-serif;
+}
+.navbar-brand
+{
+    position: fixed;
+    width: 101%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
+}
